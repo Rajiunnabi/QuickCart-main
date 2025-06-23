@@ -1,4 +1,4 @@
-# QuickCart - E-Commerce Dashboard (Next.js)
+# QuickCart - E-Commerce(Next.js)
 
 [![Next.js](https://img.shields.io/badge/Next.js-13+-000000?logo=next.js)](https://nextjs.org)
 [![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?logo=vercel)](https://vercel.com)
